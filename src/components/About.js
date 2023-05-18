@@ -33,6 +33,7 @@ export default function About(props) {
 //     }
 //   }
   
+
   return (
     <div className="conatiner" style={{color: props.mode === "dark"?"white":"#495057"}}>
       <h1 className='my-3'>About Us</h1>
